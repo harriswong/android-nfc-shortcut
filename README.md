@@ -1,6 +1,8 @@
 # Android NFC Shortcut
 
-A simple Android app that adds an **NFC Shortcut tile** to the Quick Settings Panel, prioritizing security and simplicity by providing a quick link to the NFC settings page for easy management within Android's secure architecture.
+Do you prefer to keep NFC off and only enable it when needed? Ever wondered why NFC isn't part of Android's Quick Settings by default? Honestly, same here! Well, look no further—this is the shortcut you've been waiting for! 🎉
+
+This simple Android app adds an **NFC Shortcut tile** to the Quick Settings Panel, combining security and convenience by providing a direct link to the NFC settings page, all while adhering to Android's secure architecture.
 
 ---
 
